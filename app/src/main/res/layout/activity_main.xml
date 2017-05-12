@@ -17,4 +17,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="调用相机"/>
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
 </LinearLayout>
